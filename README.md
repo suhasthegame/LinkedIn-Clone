@@ -23,7 +23,7 @@ Install with npm
 
 ## Support
 
-For support, email harikanani2003@gmail.com
+For support, email suhaskatari1998@gmail.com
 
 ## License
 
